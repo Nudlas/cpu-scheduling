@@ -1,0 +1,15 @@
+# Build artifacts
+*.exe
+*.out
+*.app
+scheduling
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db 
